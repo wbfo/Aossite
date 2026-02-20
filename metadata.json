@@ -1,0 +1,8 @@
+{
+  "name": "AuditOS Operator AI",
+  "description": "An AI-powered operating assistant for digital agencies to analyze leads, detect opportunities, and generate execution-ready service blueprints.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
